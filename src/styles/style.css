@@ -1,0 +1,13 @@
+h2{
+    text-align: center;
+    color: rgb(165, 8, 8);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.col-md-12{
+    background-color: aqua;
+}
+
+.row{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
