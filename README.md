@@ -33,7 +33,7 @@ The purpose of this application is to view an entire employee directory at once 
 ## LINK TO THE Deployed link
 
 
-- https://pure-river-76451.herokuapp.com/
+
 
 ## SCREENSHOTS
 
