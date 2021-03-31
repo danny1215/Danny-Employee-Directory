@@ -9,5 +9,12 @@ h2{
 }
 
 .row{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+   
+}
+
+table{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
 }
