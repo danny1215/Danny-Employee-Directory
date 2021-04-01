@@ -1,6 +1,4 @@
-root{
-    background-color: brown;
-}
+
 
 h2{
     text-align: center;
@@ -11,7 +9,7 @@ h2{
 
 .col-md-12{
     background-color: rgb(255, 174, 0);
-    position: fixed;
+
    
 }
 
