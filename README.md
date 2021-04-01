@@ -32,7 +32,7 @@ The purpose of this application is to view an entire employee directory at once 
 
 ## LINK TO THE Deployed link
 
-
+- https://danny1215.github.io/Danny-Employee-Directory/
 
 
 ## SCREENSHOTS
