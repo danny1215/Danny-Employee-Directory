@@ -37,7 +37,7 @@ The purpose of this application is to view an entire employee directory at once 
 
 ## SCREENSHOTS
 
-- ![Screenshot (207)](https://user-images.githubusercontent.com/59859358/113372938-ba1ed800-9337-11eb-895b-f8b8cfa03696.png)
+- ![Screenshot (208)](https://user-images.githubusercontent.com/59859358/113373219-5b0d9300-9338-11eb-9895-18029f5fedfa.png)
 
 
 
